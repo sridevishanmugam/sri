@@ -1,4 +1,4 @@
 def name(a):
   return a[::-1]
-a="aa"
+a="aabbcc"
 print(name(a))
