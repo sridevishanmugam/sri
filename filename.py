@@ -1,4 +1,2 @@
-def name(a):
-  return a[::-1]
-a="aabbcc"
-print(name(a))
+uma=input()
+print(uma[::-1])
