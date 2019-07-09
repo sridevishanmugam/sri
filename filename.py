@@ -1,2 +1,4 @@
-uma=input()
-print(uma[::-1])
+def name(a):
+  return a[::-1]
+a=input()
+print(name(a))
