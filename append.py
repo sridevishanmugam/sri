@@ -1,3 +1,3 @@
-s1=input()
-print(s1,end="")
+a=input()
+print(a,end="")
 print('.')
