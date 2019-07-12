@@ -11,7 +11,7 @@ for i in range(0,len(st1[0])):
     if(f==False):
         break
     j=1
-    while(j<n and st1[0][i]==st1[j][i]):
+    while(j<n1 and st1[0][i]==st1[j][i]):
         j+=1
     if(j==n1):
         count+=1
