@@ -1,4 +1,4 @@
-def prime(n):
+def prime(n1):
   i=2
   while(i<n1):
     if n1%i==0:
