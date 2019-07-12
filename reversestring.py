@@ -1,4 +1,4 @@
-s1=int(intpu())
+s1=input()
 s1=list(str(s1))
 s2=""
 n=len(s1)
