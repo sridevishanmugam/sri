@@ -8,4 +8,4 @@ for i in range(0,q1):
 for i in r1:
     x1=i[0]-1
     y1=i[1]-1
-    print(math.gcd(s[x1],s[y1]))
+    print(math.gcd(s1[x1],s[y1]))
